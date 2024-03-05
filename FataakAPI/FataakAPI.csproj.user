@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Controller_SelectedScaffolderID>MvcControllerEmptyScaffolder</Controller_SelectedScaffolderID>
+    <Controller_SelectedScaffolderCategoryPath>root/Common/MVC/Controller</Controller_SelectedScaffolderCategoryPath>
+    <NameOfLastUsedPublishProfile>D:\Udemy ASPNET &amp; Angular\IOT project 8Sem\FataakAPI\FataakAPI\Properties\PublishProfiles\xyzisuser-001-site1 - FTP.pubxml</NameOfLastUsedPublishProfile>
+  </PropertyGroup>
+</Project>
